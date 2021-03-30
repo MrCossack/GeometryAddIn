@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RevitAddIns>
+
+  <AddIn Type="Command">
+
+       <Name>GeometryAddIn</Name>
+
+       <FullClassName>GeometryAddIn.Class1</FullClassName>
+
+       <Text>GeometryAddIn</Text> 
+
+       <Description>Places a geometry to the position 0 0 0</Description>
+
+       <VisibilityMode>AlwaysVisible</VisibilityMode>
+
+       <Assembly>E:\Projekte\GeometryAddIn\GeometryAddIn\bin\Debug\GeometryAddIn.dll</Assembly>
+
+       <AddInId>502fe383-2648-4e98-adf8-5e6047f9dc34</AddInId>
+
+    <VendorId>ADSK</VendorId>
+
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+
+  </AddIn>
+
+</RevitAddIns>
